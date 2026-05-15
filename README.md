@@ -1,11 +1,147 @@
+<div align="center">
 
-## Run Locally
+# 🐍 Retro Snake Game
+### ✨ Neon Arcade Experience With Retro Aesthetics ✨
 
-**Prerequisites:**  Node.js
+![Banner](https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1600&auto=format&fit=crop)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Retro-Neon-purple?style=for-the-badge" />
+</p>
+
+<p align="center">
+  A modern neon-styled remake of the classic Snake Game with smooth gameplay, glowing visuals, and retro arcade vibes.
+</p>
+
+</div>
+
+---
+
+# 🎮 Preview
+
+## 🌌 Neon Gameplay
+
+![Gameplay](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1600&auto=format&fit=crop)
+
+---
+
+# ✨ Features
+
+- 🐍 Classic Snake gameplay
+- 🌈 Neon glow aesthetics
+- ⚡ Smooth controls
+- 🎮 Retro arcade design
+- 💻 Responsive game canvas
+- 🧠 Score tracking
+- 🔥 Modern UI with vintage feel
+- 🎵 Immersive gaming experience
+
+---
+
+# 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Structure |
+| CSS3 | Styling & Neon Effects |
+| JavaScript | Game Logic |
+| Canvas API | Rendering |
+
+---
+
+# 📂 Project Structure
+
+```bash
+Retro-Snake-Game/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   └── sounds/
+│
+└── README.md
+🚀 Getting Started
+1️⃣ Clone Repository
+git clone https://github.com/Kunalshengokar/Snake-game.git
+
+2️⃣ Open Project
+cd Snake-game
+
+3️⃣ Run The Game
+Simply open:
+index.html
+in your browser.
+
+🎮 Controls
+KeyAction⬆️Move Up⬇️Move Down⬅️Move Left➡️Move Right
+
+🌈 Design Inspiration
+This project is inspired by:
+Retro arcade games
+Neon cyberpunk aesthetics
+Classic Nokia snake gameplay
+Modern minimal UI design
+Retro snake games remain popular for their nostalgic gameplay and modern visual remakes. 
+
+🔥 Future Improvements:
+🎵 Background music
+🏆 High score leaderboard
+📱 Mobile support
+🌍 Multiplayer mode
+⚡ Power-ups
+🌈 Multiple themes
+👾 Difficulty levels
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Community snake-game projects often expand with themes, modes, and visual upgrades. 
+
+💡 Learning Outcomes
+This project demonstrates:
+
+JavaScript game logic
+
+DOM manipulation
+
+Collision detection
+
+Responsive game design
+
+Canvas rendering
+
+Clean frontend structure
+
+
+
+🤝 Contributing
+Contributions are welcome!
+Fork the repository
+Create your feature branch
+Commit your changes
+
+Push to the branch
+Open a Pull Request
+
+👨‍💻 Developer
+<div align="center">
+Built with ❤️ by Kunal Shengokar
+🚀 Passionate Frontend & Game Developer
+</div>
+
+⭐ Support
+If you like this project:
+⭐ Star the repository
+🍴 Fork the project
+🐛 Report bugs
+🚀 Share with friends
+
+<div align="center">
+🐍 Retro Snake Game
+“Eat. Grow. Survive.”
+</div>
+```
+::contentReference[oaicite:2]{index=2}
