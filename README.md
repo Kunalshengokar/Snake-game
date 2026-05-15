@@ -65,83 +65,112 @@ Retro-Snake-Game/
 │   └── sounds/
 │
 └── README.md
-🚀 Getting Started
-1️⃣ Clone Repository
+```
+
+---
+
+# 🚀 Getting Started
+
+## 1️⃣ Clone Repository
+```bash
 git clone https://github.com/Kunalshengokar/Snake-game.git
+```
 
-2️⃣ Open Project
+## 2️⃣ Open Project
+```bash
 cd Snake-game
+```
 
-3️⃣ Run The Game
-Simply open:
-index.html
-in your browser.
+## 3️⃣ Run The Game
+Simply open `index.html` in your browser.
 
-🎮 Controls
-KeyAction⬆️Move Up⬇️Move Down⬅️Move Left➡️Move Right
+---
 
-🌈 Design Inspiration
+## 🎮 Controls
+
+| Key | Action |
+|-----|--------|
+| ⬆️ | Move Up |
+| ⬇️ | Move Down |
+| ⬅️ | Move Left |
+| ➡️ | Move Right |
+
+---
+
+# 🌈 Design Inspiration
+
 This project is inspired by:
-Retro arcade games
-Neon cyberpunk aesthetics
-Classic Nokia snake gameplay
-Modern minimal UI design
-Retro snake games remain popular for their nostalgic gameplay and modern visual remakes. 
+- Retro arcade games
+- Neon cyberpunk aesthetics
+- Classic Nokia snake gameplay
+- Modern minimal UI design
 
-🔥 Future Improvements:
-🎵 Background music
-🏆 High score leaderboard
-📱 Mobile support
-🌍 Multiplayer mode
-⚡ Power-ups
-🌈 Multiple themes
-👾 Difficulty levels
+Retro snake games remain popular for their nostalgic gameplay and engaging visual remakes that blend classic mechanics with contemporary aesthetics.
 
+---
 
-Community snake-game projects often expand with themes, modes, and visual upgrades. 
+# 🔥 Future Improvements
 
-💡 Learning Outcomes
+- 🎵 Background music
+- 🏆 High score leaderboard
+- 📱 Mobile support
+- 🌍 Multiplayer mode
+- ⚡ Power-ups
+- 🌈 Multiple themes
+- 👾 Difficulty levels
+
+Community snake-game projects continue to expand with new themes, gameplay modes, and visual upgrades to enhance player engagement.
+
+---
+
+# 💡 Learning Outcomes
+
 This project demonstrates:
 
-JavaScript game logic
+- JavaScript game logic
+- DOM manipulation
+- Collision detection
+- Responsive game design
+- Canvas rendering
+- Clean frontend structure
 
-DOM manipulation
+---
 
-Collision detection
+# 🤝 Contributing
 
-Responsive game design
-
-Canvas rendering
-
-Clean frontend structure
-
-
-
-🤝 Contributing
 Contributions are welcome!
-Fork the repository
-Create your feature branch
-Commit your changes
 
-Push to the branch
-Open a Pull Request
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
 
-👨‍💻 Developer
+---
+
+# 👨‍💻 Developer
+
 <div align="center">
 Built with ❤️ by Kunal Shengokar
+
 🚀 Passionate Frontend & Game Developer
 </div>
 
-⭐ Support
+---
+
+# ⭐ Support
+
 If you like this project:
-⭐ Star the repository
-🍴 Fork the project
-🐛 Report bugs
-🚀 Share with friends
+- ⭐ Star the repository
+- 🍴 Fork the project
+- 🐛 Report bugs
+- 🚀 Share with friends
+
+---
 
 <div align="center">
-🐍 Retro Snake Game
-“Eat. Grow. Survive.”
+
+# 🐍 Retro Snake Game
+### "Eat. Grow. Survive."
+
 </div>
-```
-::contentReference[oaicite:2]{index=2}
